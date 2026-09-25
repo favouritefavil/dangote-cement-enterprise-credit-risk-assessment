@@ -8,7 +8,7 @@ This portfolio project simulates a corporate-bank credit assessment of **Dangote
 
 **Core question:** Can the borrower sustainably generate sufficient cash to service debt, and what could weaken that capacity?
 
-![Dangote Cement Executive Credit Overview](02_Dashboard/01_Executive_Credit_Overview.png)
+![Dangote Cement Executive Credit Overview](02_Dashboard/01_Executive_Credit_Overview.PNG)
 
 ### FY2025 credit snapshot
 
