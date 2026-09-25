@@ -8,7 +8,7 @@ This portfolio project simulates a corporate-bank credit assessment of **Dangote
 
 **Core question:** Can the borrower sustainably generate sufficient cash to service debt, and what could weaken that capacity?
 
-![Dangote Cement Executive Credit Overview](02_PowerBI_Dashboard/01_Executive_Credit_Overview.png)
+![Dangote Cement Executive Credit Overview](02_Dashboard/01_Executive_Credit_Overview.png)
 
 ### FY2025 credit snapshot
 
@@ -80,7 +80,7 @@ The dashboard contains five final monitoring pages:
 4. **Liquidity, FX & Contingent Risk**
 5. **Early Warning & Credit Monitoring**
 
-See [`02_PowerBI_Dashboard/Dashboard_Guide.md`](02_PowerBI_Dashboard/Dashboard_Guide.md) and the page screenshots in that folder.
+See [`02_PowerBI_Dashboard/Dashboard_Guide.md`](02_Dashboard/Dashboard_Guide.md) and the page screenshots in that folder.
 
 ## Repository structure
 
